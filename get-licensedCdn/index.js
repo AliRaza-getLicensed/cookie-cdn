@@ -232,7 +232,7 @@
       return `
           <div id="${this.popupId}" style="display:none; position:fixed; left:0; bottom:0; width:100%; background-color:#f1f1f1; color:#000; text-align:center; padding:10px; z-index:9999;">
             <p>This website uses cookies to ensure you get the best experience on our website.</p>
-            <button id="${this.acceptBtnId}" style="background-color:#4CAF50; color:white; padding:10px 20px; border:none; cursor:pointer;">Accept</button>
+            <button id="${this.acceptBtnId}" style="background-color:#4CAF50; color:white; padding:10px 20px; border:none; cursor:pointer;">Confirm</button>
           </div>
         `;
     }
